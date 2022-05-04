@@ -1,5 +1,7 @@
 import pandas as pd
 
+# this class does all the functionalities for dataset in pandas
+
 
 class dataset:
     def __init__(self) -> None:
